@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi There. I am InviBull.
+
+
+
 [![InviBull's GitHub stats](https://github-readme-stats.vercel.app/api?username=invibull)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invibull)](https://github.com/anuraghazra/github-readme-stats)
+
