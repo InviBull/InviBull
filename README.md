@@ -8,7 +8,7 @@ About Me:
 
  • Music Maker
 
- • Chess Player ([1300](https://chess.com))
+ • Chess Player ([1400](https://chess.com))
 
 What I Know: 
 
