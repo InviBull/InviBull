@@ -12,11 +12,11 @@ About Me:
 
 What I Know: 
 
- • Python: Pandas, Numpy
+ • Python: Pandas, Numpy, Pygame
 
  • JS: ReactJs, NodeJs
 
- • C#: Unity
+ • C++
 
  • Databases: MongoDB, Firebase
 
