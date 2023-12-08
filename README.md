@@ -19,6 +19,7 @@ I'm currently focused on improving my skills in CTFs and exploring AI.
 ## 📫 Get in Touch
 
 - GitHub: [InviBull](https://github.com/InviBull)
+- Discord: [invibull2](https://discord.com/users/1146401710038851605)
 
 ## 📈 GitHub Stats
 
@@ -29,7 +30,7 @@ I'm currently focused on improving my skills in CTFs and exploring AI.
 Here are some projects I'm proud of:
 
 1. [Chess](https://github.com/InviBull/Chess): A Two-Player Chess Interface developed in Python.
-
+2. [Advent of Code Solutions](https://github.com/InviBull/advent-of-code): My solutions for [Advent Of Code](https://adventofcode.com/) in Python.
 ...
 
 Feel free to explore my repositories and provide feedback. Contributions and issues are always welcome!
